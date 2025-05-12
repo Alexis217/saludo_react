@@ -35,7 +35,7 @@ Aplicación web que valida nombres de usuario contra un backend y muestra un sal
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/Alexis217/saludo_react.git
    ```
 
 2. Instalar dependencias del backend:
